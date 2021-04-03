@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B3EAFED0-CB17-FBA6-4AAA-A25BCE5D9FE6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FripperController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScoreController.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/StarController.cs" />
+      <File FileName="Assets/Scripts/FripperController.cs" Line="46" Column="17" />
+      <File FileName="Assets/Scripts/BrightnessRegulator.cs" />
+      <File FileName="Assets/Scripts/BallController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PinBall2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScoreController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d68a0843-0b43-464b-aa07-6e695011be67" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
